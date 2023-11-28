@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @nasrom9
-- 👀 I’m interested in web development and mainly front-end
-- 🌱 I’m currently learning CSS3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nasreldin Omer
+- I work as an Odoo developer
+- You can find me at nasrom9@gmail.com
 
 <!---
 nasrom9/nasrom9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
